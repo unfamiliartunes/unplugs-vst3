@@ -1,19 +1,8 @@
 [
   {
-    "name": "N-TILT",
-    "author": "Nasko",
-    "path": "Plugins/N-TILT.zip",
-    "formats": ["VST3", "AU", "LV2", "CLAP", "Standalone"],
-    "type": "fx",
-    "version": "1.0.0",
-    "enable_gem": false,
-    "enable_sfizz": false,
-    "enable_ffmpeg": false
-  },
-  {
-    "name": "the gusher",
+    "name": "the gusher birthday edition",
     "author": "(un)familiar.",
-    "path": "Plugins/the gusher.zip",
+    "path": "Plugins/the gusher birthday edition.zip",
     "formats": ["VST3", "AU", "LV2"],
     "type": "fx",
     "version": "1.0.0",
